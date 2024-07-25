@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá! Eu sou a Ari. 👋👩🏻‍💻
 
-<!--
-**ariadnenetzel/ariadnenetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Cursando 2º semestre de Análise e Desenvolvimento de Sistemas  
+- 🚧 Portfólio em desenvolvimento  
+- 🩶 Amante de música e fotografia analógica  
+- 📖 Background profissional na área de Educação  
+##  
 
-Here are some ideas to get you started:
+<a href="https://github.com/ariadnenetzel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ariadnenetzel&theme=date_night&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/ariadnenetzel/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadnenetzel&theme=date_night&hide_progress=true" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div> 
+  <a href = "mailto:ariadnenetzel@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/+5541999671951" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ariadnenetzel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
